@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-lineage:0c618591fd6da0311de9a1de71c1192b3f012f3d603b982191c15edcc690b9bb",
+  "kind": "node",
+  "name": "dogg-lineage",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-lineage",
+  "github": "https://github.com/kody-w/dogg-lineage",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:49:39.416Z",
+  "notes": "Federated TEMPLATE node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash. This node carries no real personal data: every lineage field is a literal PLACEHOLDER."
+}
