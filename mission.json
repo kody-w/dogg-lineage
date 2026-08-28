@@ -1,0 +1,31 @@
+{
+ "schema": "dogg/0-mission",
+ "dimension": "lineage:@kody-w/dogg-lineage",
+ "fields": [
+  {
+   "name": "generations",
+   "path": "payload.lineage.generations",
+   "unit": "generations"
+  },
+  {
+   "name": "members",
+   "path": "payload.lineage.members",
+   "unit": "people"
+  },
+  {
+   "name": "events",
+   "path": "payload.lineage.events",
+   "unit": "events"
+  },
+  {
+   "name": "schema_version",
+   "path": "payload.lineage.schema_version",
+   "unit": "version"
+  }
+ ],
+ "default": [
+  "generations",
+  "members",
+  "events"
+ ]
+}
