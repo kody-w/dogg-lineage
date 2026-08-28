@@ -4,22 +4,22 @@
  "fields": [
   {
    "name": "generations",
-   "path": "payload.lineage.generations",
+   "path": "lineage.generations",
    "unit": "generations"
   },
   {
    "name": "members",
-   "path": "payload.lineage.members",
+   "path": "lineage.members",
    "unit": "people"
   },
   {
    "name": "events",
-   "path": "payload.lineage.events",
+   "path": "lineage.events",
    "unit": "events"
   },
   {
    "name": "schema_version",
-   "path": "payload.lineage.schema_version",
+   "path": "lineage.schema_version",
    "unit": "version"
   }
  ],
