@@ -1,8 +1,8 @@
 {
-  "count": 4,
+  "count": 5,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "lineage:@kody-w/dogg-lineage",
-  "head_frame": "7d656197ae1c614e9944a196f6176514faece42802f9c2845465e518d3f087b4",
-  "updated": "2026-08-29T04:42:53.459Z"
+  "head_frame": "9bdb14c3c931fefe2eb5594b95ddbd4c31a029d756b456a4ceecfa3bc111cb3e",
+  "updated": "2026-08-30T02:18:09.590Z"
 }
