@@ -1,0 +1,92 @@
+{
+  "spec": "rapp/1",
+  "kind": "lineage.snapshot",
+  "stream_id": "lineage:@kody-w/dogg-lineage",
+  "seq": 10,
+  "utc": "2026-09-05T01:55:00.322Z",
+  "payload": {
+    "tick": 843,
+    "tick_frame": "d2816d1d8eeb3d589213810e66af51108f58dd51c69ecf4852b81a3adfaa62f8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T01:55:00.322Z",
+    "lineage": {
+      "schema_version": 1,
+      "generations": 3,
+      "members": 3,
+      "events": 9,
+      "family_name": "PLACEHOLDER",
+      "note": "TEMPLATE ONLY. Fork this repo, replace every PLACEHOLDER with your real family's names/dates/witnesses in a PRIVATE copy, and stop pushing to a public remote before you do. See README.md."
+    },
+    "events": [
+      {
+        "gen": 1,
+        "kind": "birth",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 1,
+        "kind": "vow",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 1,
+        "kind": "death",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 2,
+        "kind": "birth",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 2,
+        "kind": "vow",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 2,
+        "kind": "death",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 3,
+        "kind": "birth",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 3,
+        "kind": "vow",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      },
+      {
+        "gen": 3,
+        "kind": "death",
+        "who": "PLACEHOLDER",
+        "when": "PLACEHOLDER",
+        "witness": "PLACEHOLDER"
+      }
+    ],
+    "sources_failed": []
+  },
+  "payload_hash": "92fdd5ace6d886ba34eef226e2f38483b18b6907c2442bdfb90b1206d0ad8c58",
+  "prev": "bfac2722369208d70e7fd2b803ac98adf08407c10084f60e3da91ad461b94649",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4319f0c5149e0b2f8d1e1c4e57698ac0fecb5adab3ebd52acf9a3b47862f5b7d"
+}
